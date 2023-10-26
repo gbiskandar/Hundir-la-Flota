@@ -10,6 +10,28 @@ Juego de hundir la flota usando las librerías numpy y random para generar un ta
 
 Imagen generada con Stable Diffusion
 
+## Instalación
+
+Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/gbiskandar/Hundir-la-Flota.git
+   ```
+
+2. Instala las dependencias necesarias:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Ejecuta el código principal para iniciar la aplicacion python.
+
+   ```bash
+   python3 main.py
+   ```
+
 ## Contribuciones
 
 Agradezco a mi colegas de The Bridge Digital Talent Accelerator en Madrid: [Manuel Lallana Babiloni](https://github.com/mlb-alumno) por sus contribuciones a la elaboracion del proyecto.

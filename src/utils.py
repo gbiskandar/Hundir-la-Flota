@@ -1,4 +1,4 @@
-# Entregable COMPLETO: Juego de Hundir la Flota con 2 jugadores, barcos aleatorios de diferente eslora, disparos manuales de Jugador 1 y disparos aleatorios de Jugador 2
+# Entregable: Juego de Hundir la Flota con 2 jugadores, barcos aleatorios de diferente eslora, disparos manuales de Jugador 1 y disparos aleatorios de Jugador 2
 
 import numpy as np
 import random
